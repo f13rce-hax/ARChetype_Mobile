@@ -1,0 +1,468 @@
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Intermediate\Build\Win64\UE4Editor\Development\OWSPlugin\Definitions.OWSPlugin.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Private\OWSAbilityActor.cpp
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Public\OWSAbilityActor.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\AbilitySystemInterface.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\AbilitySystemInterface.generated.h
+c:\ows\openworldstarterplugin\plugins\owsplugin\source\owsplugin\public\OWSBasicAttributeSet.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\AttributeSet.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/CurveTable.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Curves/SimpleCurve.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SimpleCurve.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CurveTable.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/DataTable.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Public\DataTableUtils.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DataTable.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\AttributeSet.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\AbilitySystemComponent.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\GameplayTags\Classes\GameplayTagContainer.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTags\GameplayTagContainer.generated.h
+g:\program files\epic games\ue_4.22\engine\plugins\runtime\gameplayabilities\source\gameplayabilities\public\GameplayEffectTypes.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\PhysicalMaterials/PhysicalMaterial.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Vehicles/TireType.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TireType.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\PhysicsEngine/PhysicsSettingsEnums.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PhysicsSettingsEnums.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PhysicalMaterial.generated.h
+g:\program files\epic games\ue_4.22\engine\plugins\runtime\gameplayabilities\source\gameplayabilities\public\AbilitySystemLog.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Public\VisualLogger/VisualLogger.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Public\VisualLogger/VisualLoggerTypes.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\GameplayEffectTypes.generated.h
+g:\program files\epic games\ue_4.22\engine\plugins\runtime\gameplayabilities\source\gameplayabilities\public\GameplayPrediction.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\GameplayPrediction.generated.h
+g:\program files\epic games\ue_4.22\engine\plugins\runtime\gameplayabilities\source\gameplayabilities\public\GameplayCueInterface.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\GameplayCueInterface.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\GameplayTags\Classes\GameplayTagAssetInterface.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTags\GameplayTagAssetInterface.generated.h
+g:\program files\epic games\ue_4.22\engine\plugins\runtime\gameplayabilities\source\gameplayabilities\public\GameplayAbilitySpec.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\GameplayAbilitySpec.generated.h
+g:\program files\epic games\ue_4.22\engine\plugins\runtime\gameplayabilities\source\gameplayabilities\public\GameplayEffect.h
+g:\program files\epic games\ue_4.22\engine\plugins\runtime\gameplayabilities\source\gameplayabilities\public\GameplayEffectAggregator.h
+g:\program files\epic games\ue_4.22\engine\plugins\runtime\gameplayabilities\source\gameplayabilities\public\ActiveGameplayEffectIterator.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\GameplayEffect.generated.h
+g:\program files\epic games\ue_4.22\engine\plugins\runtime\gameplayabilities\source\gameplayabilities\public\Abilities/GameplayAbilityTypes.h
+g:\program files\epic games\ue_4.22\engine\plugins\runtime\gameplayabilities\source\gameplayabilities\public\Abilities/GameplayAbilityTargetTypes.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\GameplayAbilityTargetTypes.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\GameplayAbilityTypes.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\GameplayTasks\Classes\GameplayTasksComponent.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\gameplaytasks\classes\GameplayTaskOwnerInterface.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\GameplayTasks\Public\GameplayTaskTypes.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTasks\GameplayTaskOwnerInterface.generated.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\gameplaytasks\classes\GameplayTask.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/WeakInterfacePtr.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTasks\GameplayTask.generated.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\gameplaytasks\classes\GameplayTaskResource.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTasks\GameplayTaskResource.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTasks\GameplayTasksComponent.generated.h
+g:\program files\epic games\ue_4.22\engine\plugins\runtime\gameplayabilities\source\gameplayabilities\public\Abilities/GameplayAbility.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\GameplayAbility.generated.h
+g:\program files\epic games\ue_4.22\engine\plugins\runtime\gameplayabilities\source\gameplayabilities\public\AbilitySystemReplicationProxyInterface.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\AbilitySystemReplicationProxyInterface.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\AbilitySystemComponent.generated.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OWSPlugin\OWSBasicAttributeSet.generated.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OWSPlugin\OWSAbilityActor.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\GameplayTags\Public\GameplayTagsModule.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\GameplayTags\Classes\GameplayTagsManager.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTags\GameplayTagsManager.generated.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Private\OWSAbilitySystemBlueprintLibrary.cpp
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Public\OWSAbilitySystemBlueprintLibrary.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\AbilitySystemGlobals.h
+g:\program files\epic games\ue_4.22\engine\plugins\runtime\gameplayabilities\source\gameplayabilities\public\GameplayAbilitiesModule.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\AbilitySystemGlobals.generated.h
+c:\ows\openworldstarterplugin\plugins\owsplugin\source\owsplugin\public\OWSGameplayAbilityTargetDatafilter.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\Abilities\GameplayAbilityTargetDataFilter.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\GameplayAbilityTargetDataFilter.generated.h
+c:\ows\openworldstarterplugin\plugins\owsplugin\source\owsplugin\public\OWSCharacterWithAbilities.h
+c:\ows\openworldstarterplugin\plugins\owsplugin\source\owsplugin\public\OWSCharacter.h
+c:\ows\openworldstarterplugin\plugins\owsplugin\source\owsplugin\public\OWSCharacterBase.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+c:\ows\openworldstarterplugin\plugins\owsplugin\source\owsplugin\public\OWSCharacterMovementComponent.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementComponent.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavigationAvoidanceTypes.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavigationAvoidanceTypes.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Public\AI/RVOAvoidanceInterface.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RVOAvoidanceInterface.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/PawnMovementComponent.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/NavMovementComponent.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\AI/Navigation/PathFollowingAgentInterface.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PathFollowingAgentInterface.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavMovementComponent.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PawnMovementComponent.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Interfaces/NetworkPredictionInterface.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NetworkPredictionInterface.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementComponent.generated.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OWSPlugin\OWSCharacterMovementComponent.generated.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OWSPlugin\OWSCharacterBase.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime/Online/HTTP/Public/Http.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\online\http\public\HttpModule.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\online\http\public\Interfaces/IHttpRequest.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\online\http\public\Interfaces/IHttpBase.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\online\http\public\Interfaces/IHttpResponse.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\online\http\public\PlatformHttp.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\online\http\public\Windows/WindowsPlatformHttp.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\online\http\public\GenericPlatform/GenericPlatformHttp.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\AIModule\Classes\GenericTeamAgentInterface.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\GenericTeamAgentInterface.generated.h
+c:\ows\openworldstarterplugin\plugins\owsplugin\source\owsplugin\public\OWSInventory.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+c:\ows\openworldstarterplugin\plugins\owsplugin\source\owsplugin\public\OWSInventoryItem.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OWSPlugin\OWSInventoryItem.generated.h
+c:\ows\openworldstarterplugin\plugins\owsplugin\source\owsplugin\public\OWSInventoryItemStack.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OWSPlugin\OWSInventoryItemStack.generated.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OWSPlugin\OWSInventory.generated.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OWSPlugin\OWSCharacter.generated.h
+c:\ows\openworldstarterplugin\plugins\owsplugin\source\owsplugin\public\OWSAttributeSet.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OWSPlugin\OWSAttributeSet.generated.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OWSPlugin\OWSCharacterWithAbilities.generated.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OWSPlugin\OWSGameplayAbilityTargetDataFilter.generated.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OWSPlugin\OWSAbilitySystemBlueprintLibrary.generated.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Private\OWSAbilityTask_NetworkSyncPoint.cpp
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Public\OWSAbilityTask_NetworkSyncPoint.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\Abilities/Tasks/AbilityTask.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\AbilityTask.generated.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OWSPlugin\OWSAbilityTask_NetworkSyncPoint.generated.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Private\OWSAbilityTask_SpawnProjectile.cpp
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Public\OWSAbilityTask_SpawnProjectile.h
+c:\ows\openworldstarterplugin\plugins\owsplugin\source\owsplugin\public\OWSAdvancedProjectile.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime/Engine/Classes/Components/SphereComponent.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SphereComponent.generated.h
+c:\ows\openworldstarterplugin\plugins\owsplugin\source\owsplugin\public\OWSProjectileMovementComponent.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/ProjectileMovementComponent.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ProjectileMovementComponent.generated.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OWSPlugin\OWSProjectileMovementComponent.generated.h
+c:\ows\openworldstarterplugin\plugins\owsplugin\source\owsplugin\public\OWSPlayerController.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OWSPlugin\OWSPlayerController.generated.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OWSPlugin\OWSAdvancedProjectile.generated.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OWSPlugin\OWSAbilityTask_SpawnProjectile.generated.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Public\OWSPlugin.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Private\OWSAbilityTask_WaitCastTime.cpp
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Public\OWSAbilityTask_WaitCastTime.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OWSPlugin\OWSAbilityTask_WaitCastTime.generated.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Private\OWSAbilityTask_WaitOverlap.cpp
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Public\OWSAbilityTask_WaitOverlap.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OWSPlugin\OWSAbilityTask_WaitOverlap.generated.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Private\OWSAbilityTask_WaitTargetData.cpp
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Public\OWSAbilityTask_WaitTargetData.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\Abilities/GameplayAbilityTargetActor.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\Abilities/GameplayAbilityWorldReticle.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\GameplayAbilityWorldReticle.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\GameplayAbilityTargetActor.generated.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OWSPlugin\OWSAbilityTask_WaitTargetData.generated.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Private\OWSAdvancedProjectile.cpp
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Public\Net/UnrealNetwork.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime/Engine/Classes/Particles/ParticleSystemComponent.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Particles/ParticleSystem.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ParticleSystem.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Particles/Emitter.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Emitter.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ParticleSystemComponent.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime/Engine/Classes/Components/AudioComponent.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AudioComponent.generated.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Private\OWSAIController.cpp
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Public\OWSAIController.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\AIModule\Classes\AIController.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\NavigationSystem\Public\NavFilters/NavigationQueryFilter.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\NavigationSystem\Public\NavAreas/NavArea.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavAreaBase.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavAreaBase.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\NavigationSystem\NavArea.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\NavigationSystem\NavigationQueryFilter.generated.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\aimodule\classes\AITypes.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\NavigationSystem\Public\NavigationSystemTypes.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\AI/NavigationSystemConfig.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavigationSystemConfig.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\AITypes.generated.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\aimodule\classes\Navigation/PathFollowingComponent.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\NavigationSystem\Public\NavigationData.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavigationDataInterface.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavigationDataInterface.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\NavigationSystem\NavigationData.generated.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\aimodule\classes\AIResourceInterface.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\AIResourceInterface.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\PathFollowingComponent.generated.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\aimodule\classes\Perception/AIPerceptionListenerInterface.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\AIPerceptionListenerInterface.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Public\VisualLogger/VisualLoggerDebugSnapshotInterface.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\VisualLoggerDebugSnapshotInterface.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\AIController.generated.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OWSPlugin\OWSAIController.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\AIModule\Classes\Navigation/CrowdFollowingComponent.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\AIModule\Classes\Navigation/CrowdAgentInterface.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\CrowdAgentInterface.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\CrowdFollowingComponent.generated.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Private\OWSAttributeSet.cpp
+G:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\GameplayEffectExtension.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Private\OWSBasicAttributeSet.cpp
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Private\OWSCharacter.cpp
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime/JsonUtilities/Public/JsonObjectConverter.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\jsonutilities\public\JsonObjectWrapper.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\JsonUtilities\JsonObjectWrapper.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime/Engine/Classes/GameFramework/PlayerState.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerState.generated.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Private\OWSCharacterBase.cpp
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Private\OWSCharacterMovementComponent.cpp
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Private\OWSCharacterWithAbilities.cpp
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Public\EngineUtils.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Private\OWSChatManager.cpp
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Public\OWSChatManager.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OWSPlugin\OWSChatManager.generated.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Private\OWSDontRepToOwnerActor.cpp
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Public\OWSDontRepToOwnerActor.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OWSPlugin\OWSDontRepToOwnerActor.generated.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Private\OWSGameInstance.cpp
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Public\OWSGameInstance.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OWSPlugin\OWSGameInstance.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime/MoviePlayer/Public/MoviePlayer.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Public\Slate/SlateTextures.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\SlateCore\Public\Textures/SlateUpdatableTexture.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Private\OWSGameMode.cpp
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Public\OWSGameMode.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameMode.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameMode.generated.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OWSPlugin\OWSGameMode.generated.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Public\OWSPlayerState.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OWSPlugin\OWSPlayerState.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime/Engine/Classes/Kismet/GameplayStatics.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/CollisionProfile.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CollisionProfile.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\engine\classes\kismet\GameplayStaticsTypes.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Private\OWSGameplayAbilityTargetAct_Cone.cpp
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Public\OWSGameplayAbilityTargetAct_Cone.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OWSPlugin\OWSGameplayAbilityTargetAct_Cone.generated.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Private\OWSGameplayAbilityTargetActor.cpp
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Public\OWSGameplayAbilityTargetActor.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OWSPlugin\OWSGameplayAbilityTargetActor.generated.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Private\OWSGameplayAbilityTargetActor_Ln.cpp
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Public\OWSGameplayAbilityTargetActor_Ln.h
+c:\ows\openworldstarterplugin\plugins\owsplugin\source\owsplugin\public\OWSGameplayAbilityTargetActor_Tr.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OWSPlugin\OWSGameplayAbilityTargetActor_Tr.generated.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OWSPlugin\OWSGameplayAbilityTargetActor_Ln.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Public\DrawDebugHelpers.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Private\OWSGameplayAbilityTargetActor_P.cpp
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Public\OWSGameplayAbilityTargetActor_P.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\Abilities/GameplayAbilityTargetActor_GroundTrace.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\Abilities/GameplayAbilityTargetActor_Trace.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\GameplayAbilityTargetActor_Trace.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\GameplayAbilityTargetActor_GroundTrace.generated.h
+c:\ows\openworldstarterplugin\plugins\owsplugin\source\owsplugin\public\OWSGameplayAbilityWorldReticle.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OWSPlugin\OWSGameplayAbilityWorldReticle.generated.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OWSPlugin\OWSGameplayAbilityTargetActor_P.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\Abilities/GameplayAbilityWorldReticle_ActorVisualization.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\GameplayAbilityWorldReticle_ActorVisualization.generated.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Private\OWSGameplayAbilityTargetActor_Tr.cpp
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Private\OWSGameplayAbilityTargetDatafilter.cpp
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Private\OWSGameplayAbilityWorldReticle.cpp
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime/Engine/Classes/Components/CapsuleComponent.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CapsuleComponent.generated.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Private\OWSHUD.cpp
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Public\OWSHUD.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/Canvas.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Public\CanvasItem.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/Font.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/FontImportOptions.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\FontImportOptions.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\SlateCore\Public\Fonts/FontProviderInterface.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\FontProviderInterface.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Font.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Public\CanvasTypes.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CanvasTypes.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Canvas.generated.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OWSPlugin\OWSHUD.generated.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Private\OWSInventory.cpp
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Private\OWSInventoryItem.cpp
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Private\OWSInventoryItemStack.cpp
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Private\OWSLoginWidget.cpp
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Public\OWSLoginWidget.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\UMG\Public\Components/SlateWrapperTypes.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\SlateWrapperTypes.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\UMG\Public\Components/Widget.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\UMG\Public\Components/Visual.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\Visual.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\UMG\Public\Slate/WidgetTransform.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetTransform.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Editor\UnrealEd\Public\Kismet2/CompilerResultsLog.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Editor\UnrealEd\Public\EdGraphToken.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\Widget.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\UMG\Public\Components/NamedSlotInterface.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\NamedSlotInterface.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Slate\Public\Widgets/Layout/Anchors.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Slate\Anchors.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Logging/MessageLog.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\UMG\Public\Animation/WidgetAnimation.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\MovieScene\Public\MovieSceneSequence.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\moviescene\public\MovieSceneSignedObject.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSignedObject.generated.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\moviescene\public\MovieSceneTrack.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\moviescene\public\IMovieSceneTrackInstance.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\moviescene\public\Evaluation/MovieSceneAnimTypeID.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\moviescene\public\MovieSceneSection.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\moviescene\public\MovieSceneFwd.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\moviescene\public\MovieSceneSequenceID.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSequenceID.generated.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\moviescene\public\KeyParams.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\moviescene\public\MovieScene.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\moviescene\public\MovieSceneSpawnable.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSpawnable.generated.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\moviescene\public\MovieSceneBinding.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneBinding.generated.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\moviescene\public\MovieScenePossessable.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieScenePossessable.generated.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\moviescene\public\MovieSceneObjectBindingID.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneObjectBindingID.generated.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\moviescene\public\MovieSceneFrameMigration.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneFrameMigration.generated.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\moviescene\public\MovieSceneTimeController.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Misc/QualifiedFrameTime.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieScene.generated.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\moviescene\public\Evaluation/Blending/MovieSceneBlendType.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneBlendType.generated.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\moviescene\public\Generators/MovieSceneEasingFunction.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEasingFunction.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSection.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Misc/InlineValue.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\moviescene\public\Compilation/MovieSceneSegmentCompiler.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\moviescene\public\Evaluation/MovieSceneSegment.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\UObject/SequencerObjectVersion.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSegment.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTrack.generated.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\moviescene\public\Evaluation/MovieSceneEvaluationTemplate.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\moviescene\public\Evaluation/MovieSceneTrackIdentifier.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTrackIdentifier.generated.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\moviescene\public\Evaluation/MovieSceneEvaluationField.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\moviescene\public\Evaluation/MovieSceneEvaluationKey.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvaluationKey.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvaluationField.generated.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\moviescene\public\Evaluation/MovieSceneEvaluationTrack.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\moviescene\public\Evaluation/MovieScenePlayback.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\moviescene\public\Evaluation/MovieSceneSequenceTransform.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSequenceTransform.generated.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\moviescene\public\Evaluation/MovieSceneEvalTemplate.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\moviescene\public\Evaluation/MovieSceneEvalTemplateBase.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvalTemplateBase.generated.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\moviescene\public\Evaluation/MovieSceneExecutionTokens.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\moviescene\public\MovieSceneExecutionToken.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\moviescene\public\Evaluation/MovieSceneEvaluationScope.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\moviescene\public\Evaluation/PersistentEvaluationData.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\moviescene\public\Evaluation/MovieSceneEvaluationOperand.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvaluationOperand.generated.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\moviescene\public\Evaluation/MovieSceneSequenceInstanceData.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSequenceInstanceData.generated.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\moviescene\public\Evaluation/Blending/MovieSceneBlendingAccumulator.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\moviescene\public\Evaluation/Blending/BlendableToken.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\moviescene\public\Evaluation/Blending/MovieSceneBlendingActuatorID.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\moviescene\public\Evaluation/Blending/MovieSceneBlendingActuator.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\moviescene\public\IMovieScenePlayer.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\moviescene\public\Evaluation/MovieScenePreAnimatedState.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\moviescene\public\MovieSceneSpawnRegister.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\moviescene\public\IMovieSceneObjectSpawner.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\moviescene\public\Evaluation/MovieSceneEvaluationState.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\moviescene\public\Evaluation/Blending/BlendableTokenStack.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\moviescene\public\Evaluation/Blending/MovieSceneInitialValueStore.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\moviescene\public\Evaluation/Blending/MovieSceneAccumulatedBlendState.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\moviescene\public\evaluation\blending\MovieSceneBlendingAccumulator.inl
+g:\program files\epic games\ue_4.22\engine\source\runtime\moviescene\public\Compilation/MovieSceneTemplateInterrogation.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvalTemplate.generated.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\moviescene\public\Evaluation/MovieSceneTrackImplementation.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTrackImplementation.generated.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\moviescene\public\Evaluation/MovieSceneEvaluationTree.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvaluationTrack.generated.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\moviescene\public\Evaluation/MovieSceneSequenceHierarchy.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\moviescene\public\Evaluation/MovieSceneSectionParameters.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSectionParameters.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSequenceHierarchy.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvaluationTemplate.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSequence.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\UMG\Public\Animation/WidgetAnimationBinding.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetAnimationBinding.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetAnimation.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\UMG\Public\Blueprint/WidgetBlueprintGeneratedClass.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\UMG\Public\Binding/DynamicPropertyPath.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\PropertyPath\Public\PropertyPathHelpers.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\propertypath\public\PropertyTypeCompatibility.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\PropertyPath\PropertyPathHelpers.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\DynamicPropertyPath.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetBlueprintGeneratedClass.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\UserWidget.generated.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OWSPlugin\OWSLoginWidget.generated.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Private\OWSMessageClient.cpp
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Public\OWSMessageClient.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime/Messaging/Public/IMessageBus.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime/Messaging/Public/IMessageContext.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime/MessagingCommon/Public/MessageEndpoint.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Containers/ArrayBuilder.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Messaging\Public\IMessageAttachment.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Messaging\Public\IMessageHandler.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Messaging\Public\IMessageReceiver.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Messaging\Public\IMessageSender.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Messaging\Public\IMessageBusListener.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime/MessagingCommon/Public/MessageEndpointBuilder.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Messaging\Public\IMessagingModule.h
+g:\program files\epic games\ue_4.22\engine\source\runtime\messagingcommon\public\MessageHandlers.h
+c:\ows\openworldstarterplugin\plugins\owsplugin\source\owsplugin\public\OWSMessageServer.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OWSPlugin\OWSMessageServer.generated.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OWSPlugin\OWSMessageClient.generated.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Private\OWSMessageServer.cpp
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Private\OWSModMagnitudeCalculation.cpp
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Public\OWSModMagnitudeCalculation.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\GameplayModMagnitudeCalculation.h
+g:\program files\epic games\ue_4.22\engine\plugins\runtime\gameplayabilities\source\gameplayabilities\public\GameplayEffectCalculation.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\GameplayEffectCalculation.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\GameplayModMagnitudeCalculation.generated.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OWSPlugin\OWSModMagnitudeCalculation.generated.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Private\OWSPlayerController.cpp
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Private\OWSPlayerState.cpp
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Private\OWSPlugin.cpp
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Private\OWSProjectileMovementComponent.cpp
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Private\OWSReplicationGraph.cpp
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Public\OWSReplicationGraph.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Runtime\ReplicationGraph\Source\Public\ReplicationGraph.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/PackageMapClient.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Misc/NetworkVersion.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PackageMapClient.generated.h
+g:\program files\epic games\ue_4.22\engine\plugins\runtime\replicationgraph\source\public\ReplicationGraphTypes.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/ActorChannel.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Public\Net/DataReplication.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ActorChannel.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Runtime\ReplicationGraph\Intermediate\Build\Win64\UE4Editor\Inc\ReplicationGraph\ReplicationGraph.generated.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OWSPlugin\OWSReplicationGraph.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/LevelStreaming.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Public\LatentActions.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\LevelStreaming.generated.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Private\OWSTask_ApplyRootMotion_Base.cpp
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Public\OWSTask_ApplyRootMotion_Base.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OWSPlugin\OWSTask_ApplyRootMotion_Base.generated.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Private\OWSTask_RootMotionConstantForce.cpp
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Public\OWSTask_RootMotionConstantForce.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\Abilities/Tasks/AbilityTask_ApplyRootMotionConstantForce.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\Abilities/Tasks/AbilityTask_ApplyRootMotion_Base.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\AbilityTask_ApplyRootMotion_Base.generated.h
+G:\Program Files\Epic Games\UE_4.22\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\AbilityTask_ApplyRootMotionConstantForce.generated.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OWSPlugin\OWSTask_RootMotionConstantForce.generated.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Private\OWSTravelToMapActor.cpp
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Source\OWSPlugin\Public\OWSTravelToMapActor.h
+C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OWSPlugin\OWSTravelToMapActor.generated.h

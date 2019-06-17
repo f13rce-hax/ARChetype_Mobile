@@ -1,0 +1,8 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+"C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Intermediate\Build\Win64\UE4\Development\OWSPlugin\Module.OWSPlugin.cpp.obj"
+"C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Intermediate\Build\Win64\UE4\Development\OWSPlugin\Module.OWSPlugin.gen.cpp.obj"
+"C:\OWS\OpenWorldStarterPlugin\Intermediate\Build\Win64\UE4\Development\OWSPlugin\PCLaunch.rc.res"
+/OUT:"C:\OWS\OpenWorldStarterPlugin\Plugins\OWSPlugin\Binaries\Win64\UE4-OWSPlugin.lib"
